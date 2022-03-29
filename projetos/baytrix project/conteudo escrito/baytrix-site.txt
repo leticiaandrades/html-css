@@ -1,0 +1,22 @@
+BAYTRIX 
+Would you like to enter?
+
+[MENU]
+Home
+News
+About
+Discography
+Members
+
+This is Baytrix
+Ipsum loren
+ [foto]
+
+Where we are now
+ipsum lorem
+[foto]
+
+Who we inspire
+[video]
+
+Created by Letícia Soares 
